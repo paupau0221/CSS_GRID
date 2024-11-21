@@ -1,0 +1,5 @@
+In Cascading Style Sheets, CSS grid layout or CSS grid creates complex responsive web design grid layouts more easily and consistently across browsers.[6] Historically, there have been other methods for controlling web page layout methods, such as tables, floats, and more recently, CSS Flexible Box Layout (flexbox). CSS grid is currently not an official standard (it is a W3C Candidate Recommendation) although it has been adopted by the recent versions of all current major browsers.[7]
+
+Motivation
+CSS grid can create more robust and flexible layouts than the previous options like CSS floats. It also allows for more standardized code that works across browsers. This is in contrast to relying on specific browser hacks or complicated workarounds.
+One issue with exploiting floats in CSS is that if content gets added to one portion of the page it could disrupt the flow of the page and break the layout. This is due to the varying heights for layout elements. Though flexbox supports flexible layouts and provides the flexibility of creating complex layouts, it fails when the need for creating responsive layouts in 2-dimensional space arises.
